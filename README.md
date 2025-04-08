@@ -38,11 +38,10 @@ Ownership Summaries by County – cleaned CSVs summarizing public vs. private ac
 Python Notebooks – for generating all maps, donut charts, bar charts, and treemaps
 
 ⚠️ Note on Data Access
-The COMaP and county boundary data can be accessed programmatically using the links above. However, for reproducibility and ease of use, this repository also includes:
+The full COMaP protected lands dataset and the U.S. county boundary shapefiles are too large to include directly in this GitHub repository.
+To ensure reproducibility without bloating the repo, these files are intended to be accessed programmatically through public APIs or official download portals:
 
 Cleaned and merged CSV summary files
-
-Preprocessed shapefiles and boundaries
 
 Final analysis-ready files used in the visualizations
 
