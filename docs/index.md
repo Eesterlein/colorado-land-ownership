@@ -2,7 +2,8 @@
 layout: default
 title: Who Owns Colorado?
 ---
-## Introduction
+
+### Introduction
 
 This project analyzes land ownership patterns across the state of Colorado, with the goal of visualizing:
 
@@ -20,7 +21,7 @@ This project was developed with the assistance of AI tools to enhance research, 
 
 ## Methodology
 
-### Datasets Used
+## Datasets Used
 
 The analysis combines two key datasets:
 
@@ -30,7 +31,7 @@ The analysis combines two key datasets:
 2. **Colorado Ownership, Management, and Protection (COMaP)**  
    Maintained by the Colorado Natural Heritage Program, this dataset provides polygon-level data for publicly managed and conserved lands. It complements the parcel composite by filling in missing acreage values and identifying protected private lands.
 
-### Tools and Libraries
+## Tools and Libraries
 
 This project was built using Python and the following libraries:
 
@@ -55,7 +56,7 @@ There are several important caveats to this analysis:
 
 These limitations are acknowledged throughout the analysis and accounted for in the interpretation of the visual results.
 
-## Results
+### Results
 
 ### Public vs. Private Land in Colorado
 
