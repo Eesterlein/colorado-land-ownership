@@ -31,7 +31,7 @@ Gunnison Assessor Data – classified parcel-level data with flags for local vs.
 Gunnison County Assesors - https://www.gunnisoncounty.org/132/Assessors-Office
 
 Colorado County Boundaries – shapefile from the U.S. Census TIGER dataset
-Colorado County Shapefile (TIGER/Line)
+Colorado County Shapefile (TIGER/Line) - https://www2.census.gov/geo/tiger/TIGER2023/COUSUB/tl_2023_08_cousub.zip
 
 Ownership Summaries by County – cleaned CSVs summarizing public vs. private acreage totals
 
