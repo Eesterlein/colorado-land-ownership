@@ -31,6 +31,9 @@ Data Sources
 
 Colorado Statewide Parcel Composite (2024)
 
+
+This project was built with the help of ChatGPT & open data from Colorado. 
+
 COMaP - Colorado Ownership, Management, and Protection dataset
 
 Gunnison County Assessor's Office
