@@ -1,7 +1,3 @@
----
-layout: default
-title: "Who Owns Colorado?"
----
 
 ### Introduction
 
@@ -183,7 +179,7 @@ Several factors contribute to the high rate of out-of-town property ownership:
 
 The chart below shows how property is held according to classification in the county assessor data.
 
-![Ownership Type Chart - Gunnison](../outputs/gunnison_owner_type_breakdown.png)
+![Ownership Type Chart - Gunnison](../outputs/gunnison_owner_type_bar.png)
 
 - **Individual owners** hold over **13,000 parcels**, indicating a strong presence of privately managed land.
 - **LLCs and corporations** own nearly **6,000 parcels**, highlighting commercial or investment activity.
