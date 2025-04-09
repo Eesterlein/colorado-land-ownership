@@ -3,6 +3,7 @@ layout: default
 title: "Who Owns Colorado?"
 ---
 
+
 ### Introduction
 
 This project analyzes land ownership patterns across the state of Colorado, with the goal of visualizing:
