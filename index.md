@@ -111,7 +111,7 @@ This map uses COMaP data to visualize who manages conserved and protected lands 
 - **State-managed lands** are scattered but visible near state parks and urban centers.
 - **County, city, and NGO-managed parcels** tend to cluster in metro areas and along the Front Range.
 
-![Land Ownership by Type Map](outputs/Colorado_Land_Ownership_by_Type-fixed.png)
+![Land Ownership by Type Map](outputs/ownership_map.png)
 
 > Note: The categories "Private" and "Private Conservation" both represent conserved private lands, but may differ by the method of conservation — such as **fee-title ownership** versus a **conservation easement**.
 
