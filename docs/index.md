@@ -99,7 +99,7 @@ This map reveals that several eastern Colorado counties — including **Morgan, 
 
 Urban counties like **Denver, Boulder, and Arapahoe** show lighter shading, reflecting lower total acreage due to higher population density and smaller parcel sizes.
 
-![Private Land by County Map](../outputs/private_land_ownership_by_type.png)
+![Private Land by County Map](../outputs/private_land_by_county_map.png)
 
 *Note: Counties such as **Rio Blanco** and **El Paso** were excluded due to unreliable acreage values that skewed the results.*
 ## Colorado Land Ownership by Type
