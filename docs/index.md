@@ -60,7 +60,7 @@ According to the statewide parcel dataset, approximately **62.6% of Colorado lan
 
 This division highlights the significant presence of public lands — including federal, state, and local management — but also reflects the dominant role of private property in shaping the state's landscape.
 
-![Public vs. Private Land Donut Chart](/outputs/public_vs_private_donut.png)
+![Public vs. Private Land Donut Chart](outputs/public_vs_private_donut.png)
 
 ---
 
@@ -74,7 +74,7 @@ Within privately held land, the majority is owned by **individuals**. Other sign
 
 This breakdown helps illustrate not just how much land is privately owned — but **who** holds it and in what form.
 
-![Private Land Ownership Bar Chart](/outputs/private_land_ownership_by_type.png)
+![Private Land Ownership Bar Chart](outputs/private_land_ownership_by_type.png)
 
 *Note: Y-axis values are shown in scientific notation (e.g., `1e8` = 100,000,000 acres) to keep the charts readable given the scale of land ownership.*
 
@@ -85,7 +85,7 @@ This breakdown helps illustrate not just how much land is privately owned — bu
 Public lands are concentrated in the mountainous western and central counties.  
 Counties such as **Gunnison, San Juan, San Miguel, Park, Delta, and Mesa** show strong public land holdings based on total acreage.
 
-![Public Land by County Map](/outputs/public_land_by_county_map.png)
+![Public Land by County Map](outputs/public_land_by_county_map.png)
 
 ---
 
@@ -95,7 +95,7 @@ This map reveals that several eastern Colorado counties — including **Morgan, 
 
 Urban counties like **Denver, Boulder, and Arapahoe** show lighter shading, reflecting lower total acreage due to higher population density and smaller parcel sizes.
 
-![Private Land by County Map](/outputs/private_land_by_county_map.png)
+![Private Land by County Map](outputs/private_land_by_county_map.png)
 
 *Note: Counties such as **Rio Blanco** and **El Paso** were excluded due to unreliable acreage values that skewed the results.*
 ## Colorado Land Ownership by Type
@@ -107,7 +107,7 @@ This map uses COMaP data to visualize who manages conserved and protected lands 
 - **State-managed lands** are scattered but visible near state parks and urban centers.
 - **County, city, and NGO-managed parcels** tend to cluster in metro areas and along the Front Range.
 
-![Land Ownership by Type Map](/outputs/land_ownership_with_counties.png)
+![Land Ownership by Type Map](outputs/land_ownership_with_counties.png)
 
 > Note: The categories "Private" and "Private Conservation" both represent conserved private lands, but may differ by the method of conservation — such as **fee-title ownership** versus a **conservation easement**.
 
@@ -121,7 +121,7 @@ This portion of the analysis uses data from the **Gunnison County Assessor's Off
 
 Over **76% of the land in Gunnison County is publicly owned**, with the majority held by federal agencies such as the **U.S. Forest Service (USFS)** and the **Bureau of Land Management (BLM)**. The map below visualizes how public and private lands are distributed within the county.
 
-![Land Ownership Map - Gunnison County](/outputs/gunnison_county_land_ownership_map.png)
+![Land Ownership Map - Gunnison County](outputs/gunnison_county_land_ownership_map.png)
 
 ---
 
@@ -129,7 +129,7 @@ Over **76% of the land in Gunnison County is publicly owned**, with the majority
 
 The chart below compares **public vs. private land** in Gunnison by total acreage, while also breaking down **parcel ownership** between local and out-of-town residents.
 
-![Gunnison Ownership Donut Charts](/outputs/gunnison_dual_donut_ownership.png)
+![Gunnison Ownership Donut Charts](outputs/gunnison_dual_donut_ownership.png)
 
 - Public lands dominate the landscape, accounting for approximately **76.1%** of the total land.
 - Among private parcels, **out-of-town owners control more acreage and more parcels than local residents**.
@@ -145,7 +145,7 @@ Out-of-town land ownership is a defining feature of the Gunnison property market
 - **Texas** ranks highest among out-of-state buyers, with over **2,700 parcels**.
 - Other leading states include **Florida, California, Oklahoma**, and several in the Midwest and West.
 
-![Out-of-State Treemap](/outputs/top_states_out_of_towners_treemap.png)
+![Out-of-State Treemap](outputs/top_states_out_of_towners_treemap.png)
 
 ---
 
@@ -160,7 +160,7 @@ Among out-of-town owners who still live within Colorado, the most common cities 
 
 These cities are either population hubs or within driving distance of Gunnison, indicating that **access to recreation** and vacation property likely influence ownership.
 
-![Out-of-Town Colorado Treemap](/outputs/top_colorado_cities_out_of_towners_treemap.png)
+![Out-of-Town Colorado Treemap](outputs/top_colorado_cities_out_of_towners_treemap.png)
 
 ---
 
@@ -179,7 +179,7 @@ Several factors contribute to the high rate of out-of-town property ownership:
 
 The chart below shows how property is held according to classification in the county assessor data.
 
-![Ownership Type Chart - Gunnison](/outputs/gunnison_owner_type_bar.png)
+![Ownership Type Chart - Gunnison](outputs/gunnison_owner_type_bar.png)
 
 - **Individual owners** hold over **13,000 parcels**, indicating a strong presence of privately managed land.
 - **LLCs and corporations** own nearly **6,000 parcels**, highlighting commercial or investment activity.
