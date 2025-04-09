@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Who Owns Colorado?"
+---
 
 ### Introduction
 
