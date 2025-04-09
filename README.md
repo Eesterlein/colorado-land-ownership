@@ -77,7 +77,7 @@ This project was built with the help of ChatGPT & open data from Colorado.
 
 # Additional Links 
 
-Full google docs report - https://docs.google.com/document/d/1xX4QjEHzvIw3B2PPN4CjeVIpUtpZ_fUi2Ljp6npeZVQ/edit?usp=sharing
-Interactive kaggle report - https://www.kaggle.com/code/elissaesterlein/who-owns-colorado-a-land-ownership-analysis-in-py
+Full google docs report - [here](https://docs.google.com/document/d/1xX4QjEHzvIw3B2PPN4CjeVIpUtpZ_fUi2Ljp6npeZVQ/edit?usp=sharing) 
+Interactive kaggle report - [here](https://www.kaggle.com/code/elissaesterlein/who-owns-colorado-a-land-ownership-analysis-in-py)
 
 
