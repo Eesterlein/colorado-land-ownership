@@ -129,7 +129,7 @@ Over **76% of the land in Gunnison County is publicly owned**, with the majority
 
 The chart below compares **public vs. private land** in Gunnison by total acreage, while also breaking down **parcel ownership** between local and out-of-town residents.
 
-![Gunnison Ownership Donut Charts](outputs/gunnison_dual_donut_ownership.png)
+![Gunnison Ownership Donut Charts](outputs/gunnison_dual_donut_ownership_updated.png)
 
 - Public lands dominate the landscape, accounting for approximately **76.1%** of the total land.
 - Among private parcels, **out-of-town owners control more acreage and more parcels than local residents**.
